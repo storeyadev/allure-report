@@ -1,70 +1,70 @@
 [ {
-  "uid" : "d7967225bf1eb360",
-  "name" : "cancel account",
-  "time" : {
-    "start" : 1631336239110,
-    "stop" : 1631336242320,
-    "duration" : 3210
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "977bcae2cda570fc",
+  "uid" : "e4b03cc07f46e135",
   "name" : "check for redirecting to the payment page",
   "time" : {
-    "start" : 1631336236247,
-    "stop" : 1631336236261,
+    "start" : 1631609140742,
+    "stop" : 1631609140756,
     "duration" : 14
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d7e374d5b1a47e3b",
+  "uid" : "6e8ae7856dc559d9",
   "name" : "should redirect to home page",
   "time" : {
-    "start" : 1631336242321,
-    "stop" : 1631336242336,
-    "duration" : 15
+    "start" : 1631609146575,
+    "stop" : 1631609146595,
+    "duration" : 20
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f6e19bcb66ac5df5",
-  "name" : "go to account setting page",
-  "time" : {
-    "start" : 1631336236261,
-    "stop" : 1631336239110,
-    "duration" : 2849
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "884b617fdd87b71b",
+  "uid" : "f59993412023da6",
   "name" : "click \"free account\" button",
   "time" : {
-    "start" : 1631336224989,
-    "stop" : 1631336226938,
-    "duration" : 1949
+    "start" : 1631609128465,
+    "stop" : 1631609131285,
+    "duration" : 2820
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9122fa27ce94b729",
-  "name" : "sign in with valid credentials",
+  "uid" : "df87bf360f095550",
+  "name" : "go to account setting page",
   "time" : {
-    "start" : 1631336226939,
-    "stop" : 1631336231356,
-    "duration" : 4417
+    "start" : 1631609140756,
+    "stop" : 1631609143776,
+    "duration" : 3020
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "113e63c831a28eaa",
+  "uid" : "1616ba47dd6d50de",
   "name" : "set value and click \"get traffic\" button",
   "time" : {
-    "start" : 1631336231356,
-    "stop" : 1631336236247,
-    "duration" : 4891
+    "start" : 1631609136440,
+    "stop" : 1631609140742,
+    "duration" : 4302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "116589956a6b0e65",
+  "name" : "cancel account",
+  "time" : {
+    "start" : 1631609143776,
+    "stop" : 1631609146575,
+    "duration" : 2799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc49e4d4ffe8e8d5",
+  "name" : "sign in with valid credentials",
+  "time" : {
+    "start" : 1631609131285,
+    "stop" : 1631609136440,
+    "duration" : 5155
   },
   "status" : "passed",
   "severity" : "normal"
