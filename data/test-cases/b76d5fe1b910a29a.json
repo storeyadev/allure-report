@@ -1,0 +1,173 @@
+{
+  "uid" : "b76d5fe1b910a29a",
+  "name" : "cancel account",
+  "fullName" : "cancel account feature.cancel account",
+  "historyId" : "616c336d4b159d0a96c622c0ad5ca059",
+  "time" : {
+    "start" : 1631681580990,
+    "stop" : 1631681583994,
+    "duration" : 3004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "cancel account"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a864af8e48fd6b66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631265478424,
+        "stop" : 1631265483337,
+        "duration" : 4913
+      }
+    }, {
+      "uid" : "7cc33e260bdea73b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631262830906,
+        "stop" : 1631262835543,
+        "duration" : 4637
+      }
+    }, {
+      "uid" : "85a161f03aabbf4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631261258160,
+        "stop" : 1631261263210,
+        "duration" : 5050
+      }
+    }, {
+      "uid" : "de469de530d2c492",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631197162934,
+        "stop" : 1631197168359,
+        "duration" : 5425
+      }
+    }, {
+      "uid" : "392e6224ba2673ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631196388560,
+        "stop" : 1631196393393,
+        "duration" : 4833
+      }
+    }, {
+      "uid" : "92a7f8a9ca8e5a84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631196088024,
+        "stop" : 1631196092748,
+        "duration" : 4724
+      }
+    }, {
+      "uid" : "ca4776d26615fb0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631110278918,
+        "stop" : 1631110283550,
+        "duration" : 4632
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "116589956a6b0e65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631609143776,
+          "stop" : 1631609146575,
+          "duration" : 2799
+        }
+      }, {
+        "uid" : "d7967225bf1eb360",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631336239110,
+          "stop" : 1631336242320,
+          "duration" : 3210
+        }
+      }, {
+        "uid" : "4890fcedde817e32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631270896404,
+          "stop" : 1631270900204,
+          "duration" : 3800
+        }
+      }, {
+        "uid" : "d347abdc46ebf685",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631266827982,
+          "stop" : 1631266831471,
+          "duration" : 3489
+        }
+      }, {
+        "uid" : "e34464a561b670df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631265664045,
+          "stop" : 1631265667179,
+          "duration" : 3134
+        }
+      }, {
+        "uid" : "7aaf3c5f28ab979e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631110278918,
+          "stop" : 1631110283550,
+          "duration" : 4632
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b76d5fe1b910a29a.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
