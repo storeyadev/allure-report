@@ -1,0 +1,58 @@
+{
+  "uid" : "58d82df5a3d6cf5d",
+  "name" : "go to account setting page",
+  "fullName" : "cancel account feature.go to account setting page",
+  "historyId" : "5da1cd2e8bfda0a9a66f5f53ea437b5c",
+  "time" : {
+    "start" : 1632543127821,
+    "stop" : 1632543130882,
+    "duration" : 3061
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "go to account setting page"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.82"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58d82df5a3d6cf5d.json",
+  "parameterValues" : [ "chrome-93.0.4577.82" ]
+}
