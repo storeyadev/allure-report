@@ -1,0 +1,56 @@
+{
+  "uid" : "e4c7f1c1a973608f",
+  "name" : "should redirect to home page",
+  "fullName" : "cancel account feature.should redirect to home page",
+  "historyId" : "a122f844989933279d12927535225e21",
+  "time" : {
+    "start" : 1631197168359,
+    "stop" : 1631197168391,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should redirect to home page"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4c7f1c1a973608f.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
