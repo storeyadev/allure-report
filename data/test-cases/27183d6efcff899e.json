@@ -1,0 +1,58 @@
+{
+  "uid" : "27183d6efcff899e",
+  "name" : "set value and click \"get traffic\" button",
+  "fullName" : "cancel account feature.set value and click \"get traffic\" button",
+  "historyId" : "2f4c80fbe47040e1ee58eecd965a32b3",
+  "time" : {
+    "start" : 1633147931944,
+    "stop" : 1633147936119,
+    "duration" : 4175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "set value and click \"get traffic\" button"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27183d6efcff899e.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}

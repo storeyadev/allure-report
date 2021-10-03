@@ -1,0 +1,58 @@
+{
+  "uid" : "5cd3232d3a49a235",
+  "name" : "sign in with valid credentials",
+  "fullName" : "cancel account feature.sign in with valid credentials",
+  "historyId" : "93776ec4a20de0ec568842fd2c4dc483",
+  "time" : {
+    "start" : 1633147927598,
+    "stop" : 1633147931944,
+    "duration" : 4346
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "sign in with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cd3232d3a49a235.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}
