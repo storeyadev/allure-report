@@ -1,0 +1,77 @@
+{
+  "uid" : "2953d1d4a7b59460",
+  "name" : "check for redirecting to the payment page",
+  "fullName" : "cancel account feature.check for redirecting to the payment page",
+  "historyId" : "fdd1bf1122db707d24a2b7b3dd71a6f6",
+  "time" : {
+    "start" : 1633234327947,
+    "stop" : 1633234327966,
+    "duration" : 19
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "check for redirecting to the payment page"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "42e920028ad565f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633147936119,
+          "stop" : 1633147936131,
+          "duration" : 12
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2953d1d4a7b59460.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}
