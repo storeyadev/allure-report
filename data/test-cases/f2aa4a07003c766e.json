@@ -1,0 +1,85 @@
+{
+  "uid" : "f2aa4a07003c766e",
+  "name" : "sign in with valid credentials",
+  "fullName" : "cancel account feature.sign in with valid credentials",
+  "historyId" : "93776ec4a20de0ec568842fd2c4dc483",
+  "time" : {
+    "start" : 1633493513953,
+    "stop" : 1633493518750,
+    "duration" : 4797
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "sign in with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "b0361ed799857993",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633234318497,
+          "stop" : 1633234323205,
+          "duration" : 4708
+        }
+      }, {
+        "uid" : "5cd3232d3a49a235",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633147927598,
+          "stop" : 1633147931944,
+          "duration" : 4346
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f2aa4a07003c766e.json",
+  "parameterValues" : [ "chrome-94.0.4606.61" ]
+}
