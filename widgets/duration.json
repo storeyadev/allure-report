@@ -1,65 +1,15 @@
 [ {
-  "uid" : "7ff1f7df8f8547a3",
-  "name" : "should redirect to home page",
-  "time" : {
-    "start" : 1631265483338,
-    "stop" : 1631265483352,
-    "duration" : 14
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2011f07721298fd5",
+  "uid" : "5c2a599b9bf86a10",
   "name" : "check for redirecting to the payment page",
   "time" : {
-    "start" : 1633493524285,
-    "stop" : 1633493524299,
-    "duration" : 14
+    "start" : 1631265475396,
+    "stop" : 1631265475411,
+    "duration" : 15
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f2aa4a07003c766e",
-  "name" : "sign in with valid credentials",
-  "time" : {
-    "start" : 1633493513953,
-    "stop" : 1633493518750,
-    "duration" : 4797
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "efa090fc6d2da2de",
-  "name" : "cancel account",
-  "time" : {
-    "start" : 1633493527360,
-    "stop" : 1633493531423,
-    "duration" : 4063
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2da62162436dc61",
-  "name" : "set value and click \"get traffic\" button",
-  "time" : {
-    "start" : 1633493518751,
-    "stop" : 1633493524285,
-    "duration" : 5534
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "77b67f428427a681",
-  "name" : "sign in with valid credentials",
-  "time" : {
-    "start" : 1631265463488,
-    "stop" : 1631265468245,
-    "duration" : 4757
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "91c8186a52e2f0fa",
+  "uid" : "84566e71125afa28",
   "name" : "cancel account",
   "time" : {
     "start" : 1631265478424,
@@ -69,17 +19,7 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8205813f88997438",
-  "name" : "go to account setting page",
-  "time" : {
-    "start" : 1631265475411,
-    "stop" : 1631265478424,
-    "duration" : 3013
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c4b2d8d0aa10c0ad",
+  "uid" : "1044b57d80a0cf6",
   "name" : "click \"free account\" button",
   "time" : {
     "start" : 1631265457591,
@@ -89,17 +29,87 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7d56df17721280a5",
-  "name" : "should redirect to home page",
+  "uid" : "1d00a96c35db74fa",
+  "name" : "set value and click \"get traffic\" button",
   "time" : {
-    "start" : 1633493531424,
-    "stop" : 1633493531444,
-    "duration" : 20
+    "start" : 1633752750954,
+    "stop" : 1633752756562,
+    "duration" : 5608
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8558fa75c7eb62bc",
+  "uid" : "2f31188104646f28",
+  "name" : "go to account setting page",
+  "time" : {
+    "start" : 1633752756575,
+    "stop" : 1633752759583,
+    "duration" : 3008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b118d106d63afe73",
+  "name" : "click \"free account\" button",
+  "time" : {
+    "start" : 1633752743311,
+    "stop" : 1633752746628,
+    "duration" : 3317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f53c5a6b189e62c",
+  "name" : "should redirect to home page",
+  "time" : {
+    "start" : 1633752763642,
+    "stop" : 1633752763653,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebabab0b04cd6800",
+  "name" : "check for redirecting to the payment page",
+  "time" : {
+    "start" : 1633752756562,
+    "stop" : 1633752756575,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50a5904b0ad14897",
+  "name" : "cancel account",
+  "time" : {
+    "start" : 1633752759584,
+    "stop" : 1633752763642,
+    "duration" : 4058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9e847beaa9e643e",
+  "name" : "sign in with valid credentials",
+  "time" : {
+    "start" : 1633752746628,
+    "stop" : 1633752750954,
+    "duration" : 4326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b493facfebf0f0ea",
+  "name" : "sign in with valid credentials",
+  "time" : {
+    "start" : 1631265463488,
+    "stop" : 1631265468245,
+    "duration" : 4757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da6fd0c63e6b46da",
   "name" : "set value and click \"get traffic\" button",
   "time" : {
     "start" : 1631265468246,
@@ -109,32 +119,22 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7fdd54b6590974e3",
+  "uid" : "63db0827f6f1f16b",
   "name" : "go to account setting page",
   "time" : {
-    "start" : 1633493524299,
-    "stop" : 1633493527360,
-    "duration" : 3061
+    "start" : 1631265475411,
+    "stop" : 1631265478424,
+    "duration" : 3013
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a5c7f7b34300c40d",
-  "name" : "click \"free account\" button",
+  "uid" : "7d0826aa869aed15",
+  "name" : "should redirect to home page",
   "time" : {
-    "start" : 1633493511663,
-    "stop" : 1633493513952,
-    "duration" : 2289
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dbc05a96bc263aa9",
-  "name" : "check for redirecting to the payment page",
-  "time" : {
-    "start" : 1631265475396,
-    "stop" : 1631265475411,
-    "duration" : 15
+    "start" : 1631265483338,
+    "stop" : 1631265483352,
+    "duration" : 14
   },
   "status" : "passed",
   "severity" : "normal"
