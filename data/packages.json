@@ -4,7 +4,7 @@
     "name" : "cancel account feature",
     "children" : [ {
       "name" : "click \"free account\" button",
-      "uid" : "858d560ecb7a5e39",
+      "uid" : "7af23dd0298adfc4",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -17,7 +17,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "sign in with valid credentials",
-      "uid" : "595f11567e28269",
+      "uid" : "b17c6d058d0ae15f",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -30,7 +30,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "set value and click \"get traffic\" button",
-      "uid" : "812ac05fc2080805",
+      "uid" : "230e34a62dfcf3fe",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -43,7 +43,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "check for redirecting to the payment page",
-      "uid" : "786688a71b854007",
+      "uid" : "fa6611b00d946531",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "go to account setting page",
-      "uid" : "abf640d3136d4d72",
+      "uid" : "a1e2ff11894752a4",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -69,7 +69,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "cancel account",
-      "uid" : "bd748597582cb562",
+      "uid" : "b2aecad01bfde054",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -82,7 +82,7 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "should redirect to home page",
-      "uid" : "27844c1c7189d69e",
+      "uid" : "8d7ca8b0c7a2d677",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
@@ -95,90 +95,90 @@
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "click \"free account\" button",
-      "uid" : "ea48a275da9001a7",
+      "uid" : "b52c52b902cc681c",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357522835,
-        "stop" : 1634357525066,
-        "duration" : 2231
+        "start" : 1634443935308,
+        "stop" : 1634443937161,
+        "duration" : 1853
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "sign in with valid credentials",
-      "uid" : "f2dec6bae4d895f",
+      "uid" : "bf40447223020bd7",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357525067,
-        "stop" : 1634357529315,
-        "duration" : 4248
+        "start" : 1634443937161,
+        "stop" : 1634443942165,
+        "duration" : 5004
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "set value and click \"get traffic\" button",
-      "uid" : "4c8cda4e3acc0b2b",
+      "uid" : "182b2681e1913d06",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357529315,
-        "stop" : 1634357534913,
-        "duration" : 5598
+        "start" : 1634443942165,
+        "stop" : 1634443947588,
+        "duration" : 5423
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "check for redirecting to the payment page",
-      "uid" : "3caeccc514b7a3a",
+      "uid" : "410c849fd1d37258",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357534913,
-        "stop" : 1634357534927,
-        "duration" : 14
+        "start" : 1634443947588,
+        "stop" : 1634443947603,
+        "duration" : 15
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "go to account setting page",
-      "uid" : "f75254376f6e166a",
+      "uid" : "4369854cfb8759b4",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357534927,
-        "stop" : 1634357537987,
-        "duration" : 3060
+        "start" : 1634443947603,
+        "stop" : 1634443950669,
+        "duration" : 3066
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "cancel account",
-      "uid" : "f005f9c5e53d2b47",
+      "uid" : "7957c981c4f50ad0",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357537987,
-        "stop" : 1634357541623,
-        "duration" : 3636
+        "start" : 1634443950669,
+        "stop" : 1634443953854,
+        "duration" : 3185
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-94.0.4606.81" ]
     }, {
       "name" : "should redirect to home page",
-      "uid" : "1743e623da60e594",
+      "uid" : "fe8d667eb8ee769e",
       "parentUid" : "a02c05a82b3a7adc8f736ca8560ea814",
       "status" : "passed",
       "time" : {
-        "start" : 1634357541624,
-        "stop" : 1634357541640,
+        "start" : 1634443953854,
+        "stop" : 1634443953870,
         "duration" : 16
       },
       "flaky" : false,
