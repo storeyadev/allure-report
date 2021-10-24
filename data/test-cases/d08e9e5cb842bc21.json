@@ -1,0 +1,56 @@
+{
+  "uid" : "d08e9e5cb842bc21",
+  "name" : "click \"free account\" button",
+  "fullName" : "cancel account feature.click \"free account\" button",
+  "historyId" : "56a6bb58cb71392cdafb61170b5d5cfe",
+  "time" : {
+    "start" : 1631261238879,
+    "stop" : 1631261242567,
+    "duration" : 3688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testClass",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "click \"free account\" button"
+  }, {
+    "name" : "package",
+    "value" : "cancel account feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d08e9e5cb842bc21.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
